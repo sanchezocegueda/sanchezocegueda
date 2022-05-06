@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sanchezocegueda
-- 👀 I’m interested in security, theory, artificial intelligence, and machine learning.
-- 🌱 I’m currently developing a turn-based role-playing game on Unity!
 - 📫 If you have any questions, feel free to email me at alsanchez6601@gmail.com
 
 <!---
