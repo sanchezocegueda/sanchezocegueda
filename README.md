@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sanchezocegueda
+- I'm broadly interested in Computer Security, AI, and CS Education
 - 📫 If you have any questions, feel free to email me at alsanchez6601@gmail.com
 
 <!---
